@@ -87,3 +87,5 @@ php-pos-invoice-system/
 ├── sales.php
 ├── invoice.php
 └── README.md
+
+> **Note:** The screenshots demonstrate the project's user interface and portfolio presentation.
