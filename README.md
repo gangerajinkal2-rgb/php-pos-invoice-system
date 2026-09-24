@@ -50,29 +50,22 @@ This application is designed to manage sales, products, inventory, customers, in
 ## 📸 Screenshots
 
 ### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" alt="POS Dashboard" width="800">
 
 ### POS Billing
-
-![POS Billing](screenshots/pos-billing.png)
+<img src="screenshots/pos-billing.png" alt="POS Billing" width="800">
 
 ### Sales Invoice
-
-![Invoice](screenshots/invoice.png)
+<img src="screenshots/invoice.png" alt="Sales Invoice" width="800">
 
 ### Products
-
-![Products](screenshots/products.png)
+<img src="screenshots/products.png" alt="Product Management" width="800">
 
 ### Stock Management
-
-![Stock](screenshots/stock.png)
+<img src="screenshots/stock.png" alt="Stock Management" width="800">
 
 ### Reports
-
-![Reports](screenshots/reports.png)
-
+<img src="screenshots/reports.png" alt="Sales Reports" width="800">
 ---
 
 ## 📂 Project Structure
